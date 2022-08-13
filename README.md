@@ -1,2 +1,1 @@
-# fuel_grid
- 
+# Fuel Grid Wordpress Theme
